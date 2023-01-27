@@ -1,6 +1,6 @@
 CSET-Georgetown-Publication-Map-Viz
 
-Data scraping and vizualition tool written in Python to visualize geographical coordinate locations of top performing high schools in PicoCTF 2019 cybersecurity competition
+Data scraping and vizualition tool written in Python to visualize geographical coordinate locations of top performing high schools in PicoCTF 2019 cybersecurity competition, after only being given names of these top high schools.
 
 Output demo and dataset screenshot below:
 
